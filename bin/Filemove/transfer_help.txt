@@ -1,0 +1,7 @@
+como usar o comando -transfer ou -t:{
+    sintax: filetomove -transfer ou -t <nome do arquivo que deseja transferir de pasta> <Destino da pasta>
+
+    finalidade: mover arquivos do diretório atual em que está
+
+    OBS: você deve estar dentro do diretório do arquivo, se não irá funcionar
+}
